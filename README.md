@@ -1,7 +1,7 @@
 
 **I am a self-taught MERN Stack developer from India.**
 <br/><br/>I also love the logic and structure of coding and always strive to write elegant and efficient code, whether it be HTML, CSS, NodeJS or React.
-<br />**I have 2.5 Years of experience in full-stack web-dev.**
+<br />**I have 2.10 Years of experience in full-stack web-dev.**
 
 ## 🕸️ **WEB DEV**
 
